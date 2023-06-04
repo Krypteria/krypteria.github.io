@@ -19,11 +19,11 @@ Let's start with the basics, what does the remote process injection technique co
 
 This technique consists, roughly speaking, of hiding the execution of a set of instructions within a legitimate process, trying to make the execution as unnoticed as possible. For example, let's take the following images:
 
-
+![suspicious binary](..\assets\img\posts\remote_process_injection\sus_binary.png)
 
 In this image we can see a custom binary that opens a cmd.exe process which in turn runs a conhost.exe. At first glance it looks quite suspicious. Now let's look at the next image:
 
-
+![less suspicious binary](..\assets\img\posts\remote_process_injection\less_sus_binary.png)
 
 While it is true that we have the same scenario, (a binary running cmd.exe and in turn conhost.exe), this time it is not an ordinary binary, it is an operating system binary, which could raise doubts about its legitimacy.
 
@@ -95,7 +95,7 @@ return EXIT_SUCCESS;
 Once we have completed these steps, we compile the program and we will have an executable capable of performing this technique. The complete code can be found in the [Offensive CPP](https://github.com/Krypteria/Offensive_CPP) repository on my Github
 
 Let's see what the execution of the complete code looks like:
-
+![remote process injection](..\assets\img\posts\remote_process_injection\remote_process_injection.png)
 
 As you can see in the image, we have managed to inject the shellcode in the process notepad.exe, if we go to the memory address reserved by VirtualAllocEx we can observe several things
 
