@@ -3,7 +3,7 @@ title: Driver
 published: true
 categories: [Windows, Easy]
 tags: [Windows explotation, .sfc Phising, PrintNightmare]
-author: Kripteria
+author: Alejandro Rivera
 image:
   path: https://user-images.githubusercontent.com/55555187/155760252-df3e53d5-df4a-4fcf-b857-12f238c85a03.PNG
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA

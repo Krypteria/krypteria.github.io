@@ -3,7 +3,7 @@ title: Blackfield
 published: true
 categories: [Active Directory,Hard] 
 tags: [Active directory explotation, Kerberos, Privilege abuse]
-author: Kripteria
+author: Alejandro Rivera
 
 image:
   path: https://user-images.githubusercontent.com/55555187/162499279-5e8afb95-25d0-4bc9-b7cb-6816f9a23c40.png

@@ -3,7 +3,7 @@ title: Resolute
 published: true
 categories: [Active Directory,Medium]
 tags: [Active directory explotation]
-author: Kripteria
+author: Alejandro Rivera
 image:
   path: https://user-images.githubusercontent.com/55555187/161285534-22daab85-6297-4e35-a744-9e0ae641b0dc.png
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA

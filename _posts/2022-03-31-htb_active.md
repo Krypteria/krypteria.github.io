@@ -3,7 +3,7 @@ title: Active
 published: true
 categories: [Active Directory,Easy]
 tags: [Active directory explotation, cpassword]
-author: Kripteria
+author: Alejandro Rivera
 image:
   path: https://user-images.githubusercontent.com/55555187/161146970-4648c341-08a0-4114-a625-50470cdfe68f.png
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA

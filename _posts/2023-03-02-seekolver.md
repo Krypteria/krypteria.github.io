@@ -3,7 +3,7 @@ title: Seekolver
 published: true
 categories: [Tool, Attack-surface mapping]
 tags: [Tool, Attack-surface mapping, Python, Personal project]
-author: Kripteria
+author: Alejandro Rivera
 pin: true
 image:
   path: https://github.com/Krypteria/Seekolver/assets/55555187/7432aeb8-bc23-445c-b9af-931bbb4a03ec

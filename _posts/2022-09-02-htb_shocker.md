@@ -3,7 +3,7 @@ title: Shocker
 published: true
 categories: [Linux, Easy]
 tags: [Web explotation, Shellsock, SUDO abuse]
-author: Kripteria
+author: Alejandro Rivera
 image:
   path: https://user-images.githubusercontent.com/55555187/191332797-a3d8413c-28ed-42dd-9911-4f57ba3b5d72.png
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
