@@ -3,7 +3,7 @@ title: DLL injection
 published: true
 categories: [Malware dev, C++]
 tags: [Malware dev, C++, Process injection]
-author: Alejandro Rivera
+
 pin: false
 image:
   path: https://github.com/Krypteria/Offensive_CPP/assets/55555187/beaedd97-aaee-470c-a38d-08a1abce682a

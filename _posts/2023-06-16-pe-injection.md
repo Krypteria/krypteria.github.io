@@ -3,7 +3,7 @@ title: PE Injection
 published: true
 categories: [Malware dev, C++]
 tags: [Malware dev, C++, Process injection]
-author: Alejandro Rivera
+
 pin: false
 image:
   path: https://github.com/Krypteria/Offensive_CPP/assets/55555187/a7ea575f-6163-46f5-9239-ecaec2ec191f

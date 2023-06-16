@@ -3,7 +3,7 @@ title: Search
 published: true
 categories: [Active Directory,Hard] 
 tags: [Active directory explotation, gMSA abuse, Permission abuse]
-author: Alejandro Rivera
+
 image:
   path: https://user-images.githubusercontent.com/55555187/186196250-730acb8c-e3d5-4f67-9aff-2239c7ab5c19.png
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA

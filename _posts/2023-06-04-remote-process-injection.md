@@ -3,7 +3,7 @@ title: Remote process injection
 published: true
 categories: [Malware dev, C++]
 tags: [Malware dev, C++, Process injection]
-author: Alejandro Rivera
+
 pin: false
 image:
   path: https://github.com/Krypteria/Offensive_CPP/assets/55555187/e7d5eef8-559c-4c02-b2a2-eeb0462fa334

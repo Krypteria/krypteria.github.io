@@ -3,7 +3,7 @@ title: Previse
 published: true
 categories: [Linux,Easy]
 tags: [Web explotation, EAR, MySQL explotation, Path Hijacking]
-author: Alejandro Rivera
+
 image:
   path: https://user-images.githubusercontent.com/55555187/182441122-946b99b9-c0c0-45c6-91a7-c5d9dd9de9ae.png
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
